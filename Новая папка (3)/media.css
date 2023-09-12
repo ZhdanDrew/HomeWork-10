@@ -1,0 +1,141 @@
+@media screen and (max-width: 1000px){
+    .media-wraper{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 50%;
+    }
+    .list-name{
+        display: block;
+    }
+    .list-name-hiden{
+        display: none;
+    }
+    
+    .star-wraper{
+        display: flex;
+        width: 10%;
+    }
+    
+    .clip-wraper{
+        display: flex;
+        width: 20%;
+        justify-content: right;
+    }
+
+.star{
+    margin-right: 0px;
+}
+.clip{
+    margin-right: 5px;
+}
+.list-point{
+    justify-content: center;
+}
+.main-list{
+    width: auto;
+    margin: auto;
+}
+}
+
+@media screen and (max-width: 770px){
+    .media-wraper{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 50%;
+    }
+    .list-name{
+        display: block;
+    }
+    .list-name-hiden{
+        display: none;
+    }
+    
+    .star-wraper{
+        display: flex;
+        width: 10%;
+    }
+    
+    .clip-wraper{
+        display: flex;
+        width: 20%;
+        justify-content: right;
+    }
+
+.star{
+    margin-right: 0px;
+}
+.clip{
+    margin-right: 5px;
+}
+.list-point{
+    justify-content: center;
+}
+.main-list{
+    width: auto;
+    margin: auto;
+}
+.side-txt{
+    display: none;
+}
+.side-img{
+    margin-right: 0;
+}
+.side-block{
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+}
+
+@media screen and (max-width: 400px){
+    .media-wraper{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 50%;
+    }
+    .list-name{
+        display: block;
+    }
+    .list-name-hiden{
+        display: none;
+    }
+    
+    .star-wraper{
+        display: flex;
+        width: 10%;
+    }
+    
+    .clip-wraper{
+        display: flex;
+        width: 20%;
+        justify-content: right;
+    }
+
+.star{
+    margin-right: 0px;
+}
+.clip{
+    margin-right: 5px;
+}
+.list-point{
+    justify-content: center;
+}
+.main-list{
+    width: auto;
+    margin: auto;
+}
+.side-txt{
+    display: none;
+}
+.side-img{
+    margin-right: 0;
+}
+.side-block{
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+.prof-txt{
+    display: none;
+}
+}

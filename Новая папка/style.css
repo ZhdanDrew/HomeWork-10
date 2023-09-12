@@ -1,0 +1,52 @@
+a{
+    color: gray;
+    text-decoration: none;
+}
+.links{
+    color: gray;
+}
+.container{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+body{
+    background-color: rgb(1 65 65);
+}
+.title{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.title-txt{
+margin-top: 5px;
+}
+.card{
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+}
+img{
+    width: 78px;
+    margin-right: 20px;
+}
+.top-block{
+    display: flex;
+}
+.bot-block{
+    display: flex;
+}
+.card-txt-top{
+    font-size: 15px;
+    color: gray;
+}
+.card-txt-bot{
+    font-size: 17px;
+    color: white;
+}
+.card-block{
+    margin-right: 20px;
+}
+.card-txt-part{
+    display: flex;
+}
